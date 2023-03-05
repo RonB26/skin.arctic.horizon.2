@@ -249,7 +249,7 @@
         },
         "none": {
             "rule": "!Window.IsVisible(MyGames.xml) + Container.Content()",
-            "viewtypes": ["50", "500", "502", "501", "508", "551", "552", "557", "540", "54"],
+            "viewtypes": ["50", "500", "502", "501", "508", "520", "551", "552", "557", "540", "54"],
             "library": "50",
             "plugins": "50"
         }
